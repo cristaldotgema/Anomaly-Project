@@ -1,7 +1,7 @@
 ---
 title: Jacob Anders
 description: Anomaly Project character, Jacob.
-slug: /anomaly-rising-characters/canon-characters/main-cast/jacob-anders
+slug: /anomaly-rising-characters/main-cast/jacob-anders
 ---
 
 # Jacob Anders

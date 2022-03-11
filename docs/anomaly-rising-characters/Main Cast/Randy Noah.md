@@ -1,7 +1,7 @@
 ---
 title: Randy Noah
 description: Anomaly Project character, Randy.
-slug: /anomaly-rising-characters/canon-characters/main-cast/randy-noah
+slug: /anomaly-rising-characters/main-cast/randy-noah
 ---
 
 # Randy Noah

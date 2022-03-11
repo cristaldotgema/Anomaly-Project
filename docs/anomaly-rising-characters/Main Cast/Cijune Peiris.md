@@ -1,7 +1,7 @@
 ---
 title: Cijune Peiris
 description: Anomaly Project character, Cijune Peiris.
-slug: /anomaly-rising-characters/canon-characters/main-cast/cijune-peiris
+slug: /anomaly-rising-characters/main-cast/cijune-peiris
 ---
 
 # Cijune Peiris

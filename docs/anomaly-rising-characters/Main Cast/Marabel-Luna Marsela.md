@@ -1,7 +1,7 @@
 ---
 title: Marabel-Luna Marsela
 description: Anomaly Project character, Marabel-Luna (ML) Marsela.
-slug: /anomaly-rising-characters/canon-characters/main-cast/marabel-luna-marsela
+slug: /anomaly-rising-characters/main-cast/marabel-luna-marsela
 ---
 
 # Marabel-Luna Marsela

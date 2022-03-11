@@ -14,9 +14,7 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 <DocCardList items={useCurrentSidebarCategory().items}/>
 ```
 
-> ## Canon Characters
+> ## Characters
 > Main cast (and later, minor cast) characters that are part of the main story
 
-> ## Submitted Characters
-> (Soon) - Characters submitted by fans and others, to be a part of the world, TTRPG or otherwise.
 

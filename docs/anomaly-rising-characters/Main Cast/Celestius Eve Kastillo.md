@@ -1,7 +1,7 @@
 ---
 title: Celestius Eve Kastillo
 description: Anomaly Project character, Celestius.
-slug: /anomaly-rising-characters/canon-characters/main-cast/celestius-eve-kastillo
+slug: /anomaly-rising-characters/main-cast/celestius-eve-kastillo
 ---
 
 # Celestius Eve Kastillo

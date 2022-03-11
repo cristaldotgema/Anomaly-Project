@@ -1,7 +1,7 @@
 ---
 title: Cadence Baker
 description: Anomaly Project character, Cadence.
-slug: /anomaly-rising-characters/canon-characters/main-cast/cadence-baker
+slug: /anomaly-rising-characters/main-cast/cadence-baker
 ---
 
 # Cadence Baker

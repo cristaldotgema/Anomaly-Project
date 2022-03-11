@@ -1,7 +1,7 @@
 ---
 title: Len Yuu
 description: Anomaly Project character, Len.
-slug: /anomaly-rising-characters/canon-characters/main-cast/len-yuu
+slug: /anomaly-rising-characters/main-cast/len-yuu
 ---
 
 # Len Yuu

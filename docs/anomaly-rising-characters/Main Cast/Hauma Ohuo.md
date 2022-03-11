@@ -1,7 +1,7 @@
 ---
 title: Hauma Ohuo
 description: Anomaly Project character, Hauma Ohuo.
-slug: /anomaly-rising-characters/canon-characters/main-cast/hauma-ohuo
+slug: /anomaly-rising-characters/main-cast/hauma-ohuo
 ---
 
 # Hauma Ohuo

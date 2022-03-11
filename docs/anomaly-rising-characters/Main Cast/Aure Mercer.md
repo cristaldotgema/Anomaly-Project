@@ -1,7 +1,7 @@
 ---
 title: Aure Mercer
 description: Anomaly Project character, Aure.
-slug: /anomaly-rising-characters/canon-characters/main-cast/aure-mercer
+slug: /anomaly-rising-characters/main-cast/aure-mercer
 ---
 
 # Aure Mercer

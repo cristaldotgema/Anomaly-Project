@@ -1,7 +1,7 @@
 ---
 title: Mikiya Sateio
 description: Anomaly Project character, Mikiya.
-slug: /anomaly-rising-characters/canon-characters/main-cast/mikiya-sateio
+slug: /anomaly-rising-characters/main-cast/mikiya-sateio
 ---
 
 # Mikiya Sateio

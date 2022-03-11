@@ -1,7 +1,7 @@
 ---
 title: Sokemui Wuale
 description: Anomaly Project character, Sokemui.
-slug: /anomaly-rising-characters/canon-characters/main-cast/sokemui-wuale
+slug: /anomaly-rising-characters/main-cast/sokemui-wuale
 ---
 
 # Sokemui Wuale

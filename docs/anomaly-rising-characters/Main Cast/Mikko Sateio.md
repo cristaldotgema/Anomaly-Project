@@ -1,7 +1,7 @@
 ---
 title: Mikko Sateio
 description: Anomaly Project character, Mikko.
-slug: /anomaly-rising-characters/canon-characters/main-cast/mikko-sateio
+slug: /anomaly-rising-characters/main-cast/mikko-sateio
 ---
 
 # Mikko Sateio

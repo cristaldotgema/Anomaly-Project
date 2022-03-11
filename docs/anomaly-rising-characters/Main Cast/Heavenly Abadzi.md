@@ -1,7 +1,7 @@
 ---
 title: Heavenly Abadzi
 description: Anomaly Project character, Heavenly Abadzi.
-slug: /anomaly-rising-characters/canon-characters/main-cast/heavenly-abadzi
+slug: /anomaly-rising-characters/main-cast/heavenly-abadzi
 ---
 
 # Heavenly Abadzi 

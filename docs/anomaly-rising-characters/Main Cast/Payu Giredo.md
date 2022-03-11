@@ -1,7 +1,7 @@
 ---
 title: Payu Giredo
 description: Anomaly Project character, Payu Giredo.
-slug: /anomaly-rising-characters/canon-characters/main-cast/payu-giredo
+slug: /anomaly-rising-characters/main-cast/payu-giredo
 ---
 
 # Payu Giredo
