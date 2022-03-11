@@ -16,7 +16,7 @@ const config = {
   favicon: 'img/anomaly-project.ico',
   organizationName: 'cristaldotgema', // Usually your GitHub org/user name.
   projectName: 'Anomaly-Project', // Usually your repo name.
-  deploymentBranch: 'live-website', //static site branch, as opposed to source files branch
+  deploymentBranch: 'main', //static site branch, as opposed to source files branch
 
   presets: [
     [
