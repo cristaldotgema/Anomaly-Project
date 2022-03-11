@@ -8,8 +8,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  z-index: 3;
 }
+
 
 [data-theme='dark'] .heroBanner {
   background-color: var(--ifm-color-primary-darkest);
@@ -26,11 +26,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
-
-[data-theme='dark'] .button{
-  background-color: var(--ifm-color-primary-dark);
-  color: #fff;
 }
 
 @media screen and (max-width: 996px) {

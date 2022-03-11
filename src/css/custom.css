@@ -35,6 +35,25 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+
+
+[data-theme='dark'] .heroBanner {
+  background-color: var(--ifm-color-primary-darkest);
+  color: #fff;
+  background-image: url(/img/darkmodeCity.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+[data-theme='light'] .heroBanner {
+  background-color: var(--ifm-color-primary);
+  background-image: url(/img/lightmodeCity.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(146, 146, 146, 0.3);
 }

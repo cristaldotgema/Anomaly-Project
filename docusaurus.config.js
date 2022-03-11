@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  staticDirectories: ['static'], //where static files like images will be
   title: 'Anomaly Project',
   tagline: 'A multimedia project concerning interpersonal relations, scorned demon hunters, and the macro-nation controlling them.  ',
   url: 'https://anomalyproject.xyz/',
@@ -38,6 +39,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+      },
       navbar: {
         title: 'Anomaly Project',
         logo: {
