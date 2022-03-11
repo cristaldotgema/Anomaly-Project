@@ -27,7 +27,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/cristaldotgema/Anomaly-Project',
+        //  editUrl: ({versionDocsDirPath, docPath}) =>
+        //    `https://github.com/cristaldotgema/Anomaly-Project/tree/master/${versionDocsDirPath}/${docPath}`,
+          editUrl: undefined,  
+          editLocalizedFiles: false,
+          editCurrentVersion: false,
+          include: ['**/*.md', '**/*.mdx'],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

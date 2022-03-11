@@ -1,7 +1,7 @@
 ---
 title: Ayasa Lnu
 description: Anomaly Project character, Ayasa.
-slug: /anomaly-rising-characters/canon-characters/main-cast/ayasa-lnu
+slug: /anomaly-rising-characters/main-cast/ayasa-lnu
 ---
 
 # Ayasa Lnu
