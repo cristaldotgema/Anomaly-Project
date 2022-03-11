@@ -1,0 +1,89 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #A41127;
+  --ifm-color-primary-dark: #A4115C;
+  --ifm-color-primary-darker: #750009;
+  --ifm-color-primary-darkest: #670002;
+  --ifm-color-primary-light: #C1626F;
+  --ifm-color-primary-lighter: #DE77B7;
+  --ifm-color-primary-lightest: #DE768E;
+  --ifm-code-font-size: 95%;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #BF4B51;
+  --ifm-color-primary-dark: #BD4375;
+  --ifm-color-primary-darker: #983937;
+  --ifm-color-primary-darkest: #000;
+  --ifm-color-primary-light: #C05359;
+  --ifm-color-primary-lighter: #CD6C6A;
+  --ifm-color-primary-lightest: #F1757B;
+}
+
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(146, 146, 146, 0.3);
+}
+
+[data-theme='light'] img[src$='#image-dark-mode-only'],
+[data-theme='dark'] img[src$='#image-light-mode-only'] {
+  display: none;
+}
+
+[data-theme='dark'] ::-moz-selection, [data-theme='dark'] ::webkit-selection, [data-theme='dark'] ::selection{
+  background: rgba(var(--ifm-color-primary-darker: #983937), 0.3);
+  color: #fff;
+}
+
+.aboutImage{
+  align-self: center;
+  width: 350px;
+}
+
+.characterImage{
+  align-self: center;
+}
+
+.leftCharacterProfile + table {
+  float: left;
+  margin: 20px;
+  clear: both;
+}
+
+.rightCharacterProfile + table {
+  float: right;
+  margin: 20px;
+  clear: both;
+}
+
+spoiler{
+  background-color: #000000;
+  color: #000000;
+}
+
+.clear {
+clear: both;
+}
+
+footer a{
+  color: var(--ifm-color-primary-lightest);
+}
+
+footer a:hover{
+  color: var(--ifm-color-primary-lighter);
+  transition-duration: 400ms;
+}
