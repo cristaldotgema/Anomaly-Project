@@ -11,10 +11,12 @@ const config = {
   url: 'https://anomalyproject.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
+  trailingSlash: false,
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/anomaly-project.ico',
   organizationName: 'cristaldotgema', // Usually your GitHub org/user name.
   projectName: 'Anomaly-Project', // Usually your repo name.
+  deploymentBranch: 'live-website', //static site branch, as opposed to source files branch
 
   presets: [
     [
