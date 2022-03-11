@@ -1,7 +1,7 @@
 ---
-title: Sound And Eyes
+title: Souls And Eyes
 description: The window to your soul is...
-slug: /anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/soul-and-eyes
+slug: /anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/souls-and-eyes
 ---
 
 # Souls and Eyes

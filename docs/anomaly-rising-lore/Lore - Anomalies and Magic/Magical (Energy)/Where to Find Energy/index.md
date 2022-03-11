@@ -14,4 +14,4 @@ For humans and anomalous humans, food and water is converted to energy. You migh
 
 Converting energy by eating food doesn't reap as much energy as other sources such as physical and emotional absorption, blood, flesh, and souls. Demons are the most energy-hungry of all anomalies, and rely on energy-rich sustenance to avoid death.
 
-The rawer the form of energy, the more potent. For example, demons prefer to feed on blood because it is very energy-rich. The most energy-rich part of the body is the soul. For more information on souls, please visit: [Souls and Eyes](/docs/anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/soul-and-eyes).
+The rawer the form of energy, the more potent. For example, demons prefer to feed on blood because it is very energy-rich. The most energy-rich part of the body is the soul. For more information on souls, please visit: [Souls and Eyes](/docs/anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/souls-and-eyes).

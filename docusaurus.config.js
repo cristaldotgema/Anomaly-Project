@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/anomaly-project.ico',
-  organizationName: 'Aremo', // Usually your GitHub org/user name.
-  projectName: 'Anomaly Project', // Usually your repo name.
+  organizationName: 'cristaldotgema', // Usually your GitHub org/user name.
+  projectName: 'Anomaly-Project', // Usually your repo name.
 
   presets: [
     [

@@ -6,9 +6,8 @@ slug: /anomaly-rising-lore/lore-anomalies-and-magic/anomalies/anomaly-demons
 
 # Anomaly - Demons
 
-## The moon burns <span style={{color: 'red'}}>red</span>, and the monsters toil beneath its imposing glow.
+## The moon burns red, and the monsters toil beneath its imposing glow.
 
-&#8203;
 ### A demon's legacy
 
 Demons are a type of anomaly. They are feared by most, loathed by many, and pitied by few. They are infamous for their worst (and rarest) behaviors. Demons have a reputation for brutality, sadomasochism, and insatiable hunger for humans.
@@ -55,7 +54,7 @@ In all cases, the subject’s soul corrupts, and a demon forms from a growth tha
 
 A demon can merge with an animal and gain its characteristics, but this will not halt the transformation process.
 
-/* *A demon formed this way which doesn't have enough energy could manifest first as an entity composed of the gooey black substance which would make up its tendrils. It is mindless and moves around waiting for living creatures to touch it so it can absorb its flesh. When it absorbs enough energy, the demon manifests a body.*
+*A demon formed this way which doesn't have enough energy could manifest first as an entity composed of the gooey black substance which would make up its tendrils. It is mindless and moves around waiting for living creatures to touch it so it can absorb its flesh. When it absorbs enough energy, the demon manifests a body.*
 
 ### The demonic lifestyle
 

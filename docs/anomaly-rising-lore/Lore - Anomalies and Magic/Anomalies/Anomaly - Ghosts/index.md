@@ -6,9 +6,9 @@ slug: /anomaly-rising-lore/lore-anomalies-and-magic/anomalies/anomaly-ghosts
 
 # Anomaly - Ghosts
 
-## Spirits wander the sleepless nights, and the <span style={{color: 'red'}}>red moon</span> glowers at the deviants who dare to set foot on its land.
+## Spirits wander the sleepless nights, and the red moon glowers at the deviants who dare to set foot on its land.
 
-&#8203; Ghosts are a type of anomaly that wander the world without a body. A ghost is attached to the earth due to its desires. It has one of two choices; let go of their earthly attachments, or become a demon.
+Ghosts are a type of anomaly that wander the world without a body. A ghost is attached to the earth due to its desires. It has one of two choices; let go of their earthly attachments, or become a demon.
 
 The ghost's "body" is a projection of the soul, and the individual can chose to live as a floating soul if they please instead. The ghostly body is incorporeal, translucent and tinted the color of their soul. Their soul survives after their physical bodies die. Their eyes contain no color or pupil.
 

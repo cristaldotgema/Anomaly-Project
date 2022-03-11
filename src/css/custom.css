@@ -43,11 +43,11 @@
 [data-theme='dark'] img[src$='#image-light-mode-only'] {
   display: none;
 }
-
-[data-theme='dark'] ::-moz-selection, [data-theme='dark'] ::webkit-selection, [data-theme='dark'] ::selection{
-  background: rgba(var(--ifm-color-primary-darker: #983937), 0.3);
+/*
+[data-theme='dark']::-moz-selection, [data-theme='dark']::webkit-selection, [data-theme='dark']::selection{
+  background: rgba(var(--ifm-color-primary-darker), 0.3);
   color: #fff;
-}
+}*/
 
 .aboutImage{
   align-self: center;
@@ -73,6 +73,9 @@
 spoiler{
   background-color: #000000;
   color: #000000;
+}
+spoiler::selection, spoiler::-moz-selection{
+  color: #fff;
 }
 
 .clear {

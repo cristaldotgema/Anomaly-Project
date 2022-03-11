@@ -6,9 +6,8 @@ slug: /anomaly-rising-lore/lore-anomalies-and-magic/anomalies/anomaly-anomalous-
 
 # Anomaly - Anomalous Humans
 
-## Not quite human; not quite a spirit; not quite a demon; a love letter to the anomalous humans that patrol our cities, and a curse to those aligned against our beloved <span style={{color: 'red'}}>red moon</span>.
+## Not quite human; not quite a spirit; not quite a demon; a love letter to the anomalous humans that patrol our cities, and a curse to those aligned against our beloved red moon.
 
-&#8203;
 ### The anomalous human's legacy
 
 An anomalous human (also referred to as a human anomaly) is an anomaly with a physical human body. Anomalous humans, unlike the other two anomalies, are made with intent. One could become a demon or a ghost without intending to. In contrast, you can only become a human anomaly on purpose. This is due to how an anomalous human is created.

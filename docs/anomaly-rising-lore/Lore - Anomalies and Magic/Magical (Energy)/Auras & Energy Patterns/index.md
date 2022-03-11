@@ -1,7 +1,7 @@
 ---
-title: Aura / Energy Patterns
-description: Aura and how they bend.
-slug: /anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/aura-and-energy-patterns
+title: Auras / Energy Patterns
+description: Auras and how they bend.
+slug: /anomaly-rising-lore/lore-anomalies-and-magic/magical-energy/auras-and-energy-patterns
 ---
 
 # Auras/Energy Patterns
