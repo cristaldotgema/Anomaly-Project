@@ -1,7 +1,7 @@
 ---
 title: Roo Truvade
 description: Anomaly Project character, Roo.
-slug: /anomaly-rising-characters/canon-characters/main-cast/roo-truvade
+slug: /anomaly-rising-characters/main-cast/roo-truvade
 ---
 
 # Roo Truvade

@@ -4,7 +4,7 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4.5rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -24,14 +24,14 @@
   color: #fff;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale')";
-  background: url(/img/darkmodeCity.png) center fixed;
+  background-image: url(/img/darkmodeCity.png);
 }
 
 [data-theme='light'] .heroBanner {
   background-color: var(--ifm-color-primary);
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale')";
-  background: url(/img/lightmodeCity.png) center fixed;
+  background-image: url(/img/lightmodeCity.png);
 }
 
 @media screen and (max-width: 800px) {
@@ -47,6 +47,55 @@
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: scroll;
+  }
+}
+
+
+@media screen and (min-width: 2000px){
+  html{
+    font-size: 1.5rem;
+  }
+  .heroBanner{
+  -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -khtml-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    background-position: scroll;
+    padding: 4.2rem 0;
+  }
+  /*[data-theme='dark'] .heroBanner {
+    background: var(--ifm-color-primary-darkest);
+  }
+  [data-theme='light'] .heroBanner {
+    background: var(--ifm-color-primary);
+  }*/
+}
+
+@media screen and (min-width: 3000px){
+  html{
+    font-size: 2.1rem;
+  }
+  /*[data-theme='dark'] .heroBanner {
+    background: var(--ifm-color-primary-darkest);
+  }
+  [data-theme='light'] .heroBanner {
+    background: var(--ifm-color-primary);
+    
+  }*/
+  .heroBanner{
+    padding: 4.2rem 0;
+  }
+}
+
+@media screen and (min-width: 4000px){
+  html{
+    font-size: 3.5rem;
+    width: 100%;
+    padding: 0;
+  }
+  .heroBanner{
+    padding: 3.5rem 0;
   }
 }
 

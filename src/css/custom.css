@@ -14,6 +14,8 @@
   --ifm-color-primary-lighter: #DE77B7;
   --ifm-color-primary-lightest: #DE768E;
   --ifm-code-font-size: 95%;
+  --ifm-container-width-xl: calc(100vw - 2.5rem);
+  --ifm-container-width: calc(100vw - 4.5rem);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,6 +29,9 @@
   --ifm-color-primary-lightest: #F1757B;
 }
 
+html{
+  font-size: 1.3rem;
+}
 
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
@@ -51,14 +56,60 @@
   color: #fff;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale')";
-  background: url(/img/darkmodeCity.png) center fixed;
+  background-image: url(/img/darkmodeCity.png) no-repeat center fixed;
 }
 
 [data-theme='light'] .heroBanner {
   background-color: var(--ifm-color-primary);
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale')";
-  background: url(/img/lightmodeCity.png) center fixed;
+  background-image: url(/img/lightmodeCity.png) no-repeat center fixed;
+}
+
+@media screen and (min-width: 2000px){
+  html{
+    font-size: 1.5rem;
+  }
+  .heroBanner{
+  -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -khtml-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+    background-position: scroll;
+    padding: 4.2rem 0;
+  }
+  /*[data-theme='dark'] .heroBanner {
+    background: var(--ifm-color-primary-darkest);
+  }
+  [data-theme='light'] .heroBanner {
+    background: var(--ifm-color-primary);
+  }*/
+}
+@media screen and (min-width: 3000px){
+  html{
+    font-size: 2.1rem;
+  }
+  /*[data-theme='dark'] .heroBanner {
+    background: var(--ifm-color-primary-darkest);
+  }
+  [data-theme='light'] .heroBanner {
+    background: var(--ifm-color-primary);
+  }*/
+  .heroBanner{
+    padding: 4.2rem 0;
+  }
+}
+
+@media screen and (min-width: 4000px){
+  html{
+    font-size: 3.5rem;
+    width: 100%;
+    padding: 0;
+  }
+  .heroBanner{
+    padding: 3.5rem 0;
+  }
 }
 
 @media screen and (max-width: 800px) {

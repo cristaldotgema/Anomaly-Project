@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Immerse in the different story mediums and options',
+    title: 'Immerse in the various story mediums',
     Svg: require('@site/static/img/outlinedEyes.svg').default,
     description: (
       <>
