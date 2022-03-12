@@ -42,6 +42,11 @@
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    -webkit-background-size: contain no-repeat;
+  -moz-background-size: contain no-repeat;
+  -khtm-background-size: contain no-repeat;
+  -o-background-size: contain no-repeat;
+  background-size: contain no-repeat;
     background-position: center top;
   }
 }
