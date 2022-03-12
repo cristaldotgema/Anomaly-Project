@@ -21,4 +21,4 @@ The creator, Aremo_te, first envisioned the project in 6th grade while left alon
 [Patreon](https://www.patreon.com/aremo_te)
 
 ### Credits
-[Aremo-te](https://bio.link/aremo_te) as main creator, [Jun](https://junjie.carrd.co/) as creative advisor, Original "Anomaly Project" Discord group for feedback/ideas, and [Magz](https://cristaldotgema.com) for website creation and feedback help.
+[Aremo-te](https://bio.link/aremo_te) as main creator, [Jun](https://junjie.carrd.co/) as creative advisor, Original "Anomaly Project" Discord group for feedback/ideas (including Nico, Arya, [Void](https://twitter.com/voidicium), [Valentino](https://qhostorb.tumblr.com)), and [Magz](https://cristaldotgema.com) for website creation and creative feedback help.

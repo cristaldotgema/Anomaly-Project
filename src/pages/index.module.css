@@ -10,11 +10,16 @@
   overflow: hidden;
 }
 
-
 [data-theme='dark'] .heroBanner {
   background-color: var(--ifm-color-primary-darkest);
   color: #fff;
-  background-image: url(/img/darkmodeCity.png);
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale')";
+  background: url(/img/darkmodeCity.png) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -khtm-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -22,7 +27,13 @@
 
 [data-theme='light'] .heroBanner {
   background-color: var(--ifm-color-primary);
-  background-image: url(/img/lightmodeCity.png);
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale')";
+  background: url(/img/lightmodeCity.png) no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -khtm-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
