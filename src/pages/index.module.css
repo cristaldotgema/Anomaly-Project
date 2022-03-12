@@ -8,6 +8,15 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  /*to be both banner versions position, on desktop*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -khtml-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 [data-theme='dark'] .heroBanner {
@@ -15,38 +24,29 @@
   color: #fff;
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/darkmodeCity.png', sizingMethod='scale')";
-  background: url(/img/darkmodeCity.png) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -khtm-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: url(/img/darkmodeCity.png) center fixed;
 }
 
 [data-theme='light'] .heroBanner {
   background-color: var(--ifm-color-primary);
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale');
 -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/lightmodeCity.png', sizingMethod='scale')";
-  background: url(/img/lightmodeCity.png) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -khtm-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: url(/img/lightmodeCity.png) center fixed;
 }
 
-@media screen and (max-width: 996px) {
+@media screen and (max-width: 800px) {
   .heroBanner {
     padding: 2rem;
-    -webkit-background-size: contain no-repeat;
-  -moz-background-size: contain no-repeat;
-  -khtm-background-size: contain no-repeat;
-  -o-background-size: contain no-repeat;
-  background-size: contain no-repeat;
+  }
+  [data-theme='light'] .heroBanner, [data-theme='dark'] .heroBanner{
+    -webkit-background-size: auto;
+    -moz-background-size: auto;
+    -khtml-background-size: auto;
+    -o-background-size: auto;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
   }
 }
 
