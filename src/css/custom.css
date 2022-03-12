@@ -66,6 +66,12 @@
   background-attachment: fixed;
 }
 
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    background-position: center top;
+  }
+}
+
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(146, 146, 146, 0.3);
 }
