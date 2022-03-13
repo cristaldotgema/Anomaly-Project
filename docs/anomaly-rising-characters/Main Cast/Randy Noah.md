@@ -1,10 +1,14 @@
 ---
 title: Randy Noah
-description: Anomaly Project character, Randy.
+description: God, who let this guy in. Randy.
 slug: /anomaly-rising-characters/main-cast/randy-noah
 ---
 
 # Randy Noah
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

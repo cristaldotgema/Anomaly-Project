@@ -1,10 +1,14 @@
 ---
 title: Heavenly Abadzi
-description: Anomaly Project character, Heavenly Abadzi.
+description: The affable ballerina and dedicated ace sniper, Heavenly.
 slug: /anomaly-rising-characters/main-cast/heavenly-abadzi
 ---
 
 # Heavenly Abadzi 
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

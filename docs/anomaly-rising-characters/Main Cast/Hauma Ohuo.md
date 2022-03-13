@@ -1,10 +1,14 @@
 ---
 title: Hauma Ohuo
-description: Anomaly Project character, Hauma Ohuo.
+description: The open-hearted, forthright, and secretly timorous director, Hauma.
 slug: /anomaly-rising-characters/main-cast/hauma-ohuo
 ---
 
 # Hauma Ohuo
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

@@ -1,10 +1,15 @@
 ---
 title: Marabel-Luna Marsela
-description: Anomaly Project character, Marabel-Luna (ML) Marsela.
+description: The unscrupulous socialite and incendiary hot-shot, ML.
 slug: /anomaly-rising-characters/main-cast/marabel-luna-marsela
 ---
 
 # Marabel-Luna Marsela
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
+
 
 <div class="leftCharacterProfile"> </div>
 

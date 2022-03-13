@@ -1,6 +1,6 @@
 ---
 title: Mikiya Sateio
-description: Anomaly Project character, Mikiya.
+description: The debonair paragon and charismatic deified captain, Mikiya.
 slug: /anomaly-rising-characters/main-cast/mikiya-sateio
 ---
 
@@ -8,8 +8,13 @@ slug: /anomaly-rising-characters/main-cast/mikiya-sateio
 
 
 :::tip
-Mikiya highly perfers to be called "Mikiya" rather than "Morgan". He will be refered to as "Mikiya" in the profile, though its no longer his legal name.
+Mikiya highly prefers to be called "Mikiya" rather than "Morgan". He will be refered to as "Mikiya" in the profile, though its no longer his legal name.
 :::
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
+
 
 <div class="leftCharacterProfile"> </div>
 

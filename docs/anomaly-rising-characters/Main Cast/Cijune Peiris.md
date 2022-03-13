@@ -1,10 +1,14 @@
 ---
 title: Cijune Peiris
-description: Anomaly Project character, Cijune Peiris.
+description: The laudable fashionista and commiserative healer, Cijune.
 slug: /anomaly-rising-characters/main-cast/cijune-peiris
 ---
 
 # Cijune Peiris
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

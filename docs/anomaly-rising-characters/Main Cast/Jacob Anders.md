@@ -1,11 +1,14 @@
 ---
 title: Jacob Anders
-description: Anomaly Project character, Jacob.
+description: The soft-spoken and mannerly hypersomniac, Jacob.
 slug: /anomaly-rising-characters/main-cast/jacob-anders
 ---
 
 # Jacob Anders
 
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

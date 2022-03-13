@@ -1,11 +1,14 @@
 ---
 title: Mikko Sateio
-description: Anomaly Project character, Mikko.
+description: The capricious enigma and indomitable protagonist, Mikko.
 slug: /anomaly-rising-characters/main-cast/mikko-sateio
 ---
 
 # Mikko Sateio
 
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

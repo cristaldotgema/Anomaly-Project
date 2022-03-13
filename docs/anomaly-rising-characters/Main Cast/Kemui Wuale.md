@@ -1,6 +1,6 @@
 ---
 title: Kemui Wuale
-description: Anomaly Project character, Kemui.
+description: The composed altruist and penitent ex-warrior, Kemui.
 slug: /anomaly-rising-characters/main-cast/kemui-wuale
 ---
 
@@ -8,6 +8,10 @@ slug: /anomaly-rising-characters/main-cast/kemui-wuale
 
 :::tip
 Kemui uses multiple pronouns. This profile will default to she/her for clarity.
+:::
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
 :::
 
 <div class="leftCharacterProfile"> </div>

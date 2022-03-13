@@ -1,10 +1,14 @@
 ---
 title: Payu Giredo
-description: Anomaly Project character, Payu Giredo.
+description: The whip-smart partisan and purveying activist, Payu.
 slug: /anomaly-rising-characters/main-cast/payu-giredo
 ---
 
 # Payu Giredo
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

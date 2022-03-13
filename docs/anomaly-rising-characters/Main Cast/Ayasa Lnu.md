@@ -1,6 +1,6 @@
 ---
 title: Ayasa Lnu
-description: Anomaly Project character, Ayasa.
+description: The haughty and verbose know-it-all, Ayasa.
 slug: /anomaly-rising-characters/main-cast/ayasa-lnu
 ---
 
@@ -8,6 +8,10 @@ slug: /anomaly-rising-characters/main-cast/ayasa-lnu
 
 :::tip
 Ayasa uses multiple pronouns. This profile will default to he/him for clarity.
+:::
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
 :::
 
 <div class="leftCharacterProfile"> </div>

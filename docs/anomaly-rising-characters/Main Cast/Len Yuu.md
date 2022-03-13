@@ -1,6 +1,6 @@
 ---
 title: Len Yuu
-description: Anomaly Project character, Len.
+description: The fiercely opinionated and hopeless romantic, Len.
 slug: /anomaly-rising-characters/main-cast/len-yuu
 ---
 
@@ -8,6 +8,10 @@ slug: /anomaly-rising-characters/main-cast/len-yuu
 
 :::tip
 Len changes their pronouns on a daily to weekly basis. For the sake of simplicity I will only use they/them here.
+:::
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
 :::
 
 <div class="leftCharacterProfile"> </div>

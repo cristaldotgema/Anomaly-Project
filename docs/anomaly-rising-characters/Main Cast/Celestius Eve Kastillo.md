@@ -1,10 +1,14 @@
 ---
 title: Celestius Eve Kastillo
-description: Anomaly Project character, Celestius.
+description: The eerie spectral surveyor and sanguinary emissary, Celestius.
 slug: /anomaly-rising-characters/main-cast/celestius-eve-kastillo
 ---
 
 # Celestius Eve Kastillo
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

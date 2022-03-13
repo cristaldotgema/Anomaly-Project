@@ -1,6 +1,6 @@
 ---
 title: Aure Mercer
-description: Anomaly Project character, Aure.
+description: The mysterious hedonist and infuriating instigator, Aure.
 slug: /anomaly-rising-characters/main-cast/aure-mercer
 ---
 
@@ -8,6 +8,10 @@ slug: /anomaly-rising-characters/main-cast/aure-mercer
 
 :::tip
 While Aure accepts they/them pronouns, x/x/x's are prefered. For accessibility, I have written this in they/them pronouns.
+:::
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
 :::
 
 <div class="leftCharacterProfile"> </div>

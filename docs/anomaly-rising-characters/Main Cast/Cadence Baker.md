@@ -1,10 +1,14 @@
 ---
 title: Cadence Baker
-description: Anomaly Project character, Cadence.
+description: The untamable and loud-mouth provocateur, Cadence.
 slug: /anomaly-rising-characters/main-cast/cadence-baker
 ---
 
 # Cadence Baker
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 

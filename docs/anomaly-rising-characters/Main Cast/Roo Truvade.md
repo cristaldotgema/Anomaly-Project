@@ -1,10 +1,14 @@
 ---
 title: Roo Truvade
-description: Anomaly Project character, Roo.
+description: The humble peacemaker and seasoned renegade, Roo.
 slug: /anomaly-rising-characters/main-cast/roo-truvade
 ---
 
 # Roo Truvade
+
+:::note
+Character portraits are being revamped. Please check back soon for updates!
+:::
 
 <div class="leftCharacterProfile"> </div>
 
