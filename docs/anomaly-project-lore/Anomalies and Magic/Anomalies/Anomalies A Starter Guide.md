@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: 'Anomalies: A Starter Guide'
 description: The basics of anomalies.
 slug: /anomaly-project-lore/anomalies-and-magic/anomalies/anomalies-a-starter-guide
