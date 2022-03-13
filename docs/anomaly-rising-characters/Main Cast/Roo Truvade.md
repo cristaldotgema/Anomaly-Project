@@ -89,5 +89,5 @@ Her skills in mixed martial arts and ability to pick up new skills in the blink 
 Roo's biggest talents are as a captain and as a leader, preferring recognition for diplomacy and kindness as opposed to her raw strength.
 
 ---
-ART BY HAUNTEDZONE @ TUMBLR
+ART BY [JUN](https://junjie.carrd.co/)
 WE STAN A LEGEND

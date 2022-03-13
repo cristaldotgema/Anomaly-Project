@@ -1,0 +1,78 @@
+---
+title: 'Demons' 
+description: The demons of this world and how they're created.
+slug: /anomaly-project-lore/anomalies-and-magic/anomalies/demons
+---
+
+# Demons
+
+## The moon burns red, and the monsters toil beneath its imposing glow.
+
+### A demon's legacy
+
+Demons are a type of anomaly. They are feared by most, loathed by many, and pitied by few. They are infamous for their worst (and rarest) behaviors. Demons have a reputation for brutality, sadomasochism, and insatiable hunger for humans.
+
+Demons (of legend and of reality) have made an impact on the general populace no one can deny. Throughout the course of history, demons sunk their claws into the human psyche, leaving their fingerprints throughout folklore and tall tales. The origins of many a myth could originate from an encounter with a demon. 
+
+Despite common folklore basing their ideas of demons in reality, most contain misconceptions. There is no concrete proof of an afterlife, and demons do not come from Hell. All demons originate from humans: they are not preternatural.
+
+The varied appearances of the average demon can make them difficult to categorize. Though they range wildly in shapes and sizes, all demons share core similarities. All demons are shape-shifters. Their default form has sharpened teeth and talons; every other addition is up to the demon’s discretion. A demon’s form can change depending on the situation, and they can disguise their demonic features to blend in with humans. If a demon runs low on energy, they will revert to their default form. 
+
+A demon is born with dysmorphia that lingers whenever they are not in their desired form. This is a defense mechanism; a demon will naturally want to look more threatening. A demon could add generic traits like horns, a tail, and longer claws, or a demon could opt for a more uncommon appearance. The more the form differs from their default form, the more energy it takes.
+
+Demon’s souls include all colors, but the most common is red. There is no proven theory explaining this.
+
+### Energy and abilities
+
+Raw forms of energy are the only sustainable food for a demon. A demon would die on a regular human’s diet, as their bodies require more energy than it can sustain. Suitable food for a demon is blood, flesh, emotional energy, absorbed energy, and the healing energy from another anomaly. The most commonly consumed energy is blood and absorbed energy (via tendrils) because demons know instinctually how to feed this way. A demon does not need to kill to feed, and most do not.
+
+(For reference, humans produce the most amount of energy. Animals typically produce insufficient amounts.)
+
+All demons can sprout tendrils from any part of their body to capture prey and drain their energy. These tentacles are composed of a black, sticky, viscous substance that aids in sapping life force. The tendrils are strong enough to snap bones. Also, the substance can break down and absorb flesh on command.
+
+To feed upon emotional energy, the demon draws upon the emotional energies of every person in a 10-foot radius. In addition, demons can influence the mood and charge up the emotions of people within that radius,  then feed on the resulting powerful energy. This does not drain people of their emotions, but it does expend energy, and it is a similar drain to how some might feel drained from a social situation. This also includes sexual energy, and demons are often sexually active as a result.
+
+The abilities of a demon encapsulate everything physical anomalous humans can do.
+
+### The origins of the demon
+
+Demons don't appear out of thin air, and always originate from a human being in one way or another. What part of the body is and isn't the demon? Well, that's a more philosophical question than you might think. All demons are attached to the soul of a human, and wrap around it like a growth. The demonic growth feeds as its own entity, and might choose to feed on the soul and eventually replace it. The original human still needs to eat their own food, so the growth functions almost like a parasite.
+
+Does one have/house a demon? Is one becoming a demon? The answers to these questions vary. For example, the PAS teaches that humans turn into demons, and there is no separation; therefore they must be contained and/or destroyed.
+
+There are multiple ways for a demon to form.
+
+The first is from a dead human that is too attached to Earth to exit the living realm. They are bound to the world, and wander as a spirit. A soul feeds on the emotional energy of others to survive. Sadly, a soul can only last so long before the dread of their existence weighs on them and mutates them. In this event, they manifest a physical body and are reborn as a demon.*
+
+The next way is for an anomalous human to undergo extreme emotional distress. The stress places pressure on the soul, and a demonic growth forms on the soul.
+
+Finally, demons can be created with outside influence. Demons instinctually know how to turn other people into demons (humans or anomalies), but it drains a sizable amount of energy, so it’s a risk. They reach into the right side of their victim’s chest where the soul is located. They flood the soul with their demonic energy, and the soul corrupts.
+
+An anomalous human could make another person into a demon, but they must perform a long, tedious and energy-draining process that often outweighs the benefits of the ritual. One must be vengeful to perform the spell; not to mention having to craft and prepare it.
+
+In all cases, the subject’s soul corrupts, and a demon forms from a growth that wraps around the soul. Depending on their personality, these spirits will interact with one another in various ways. The demonic transformation process is personal. While it leaves the same base physical changes for all demons, the way a person experiences it is individual and unique. Some demons try to harm their hosts psychologically or physically. They can cause their host hallucinations, phantom pain, and all other sorts of misfortune if their goal is to harm.
+
+A demon can merge with an animal and gain its characteristics, but this will not halt the transformation process.
+
+*A demon formed this way which doesn't have enough energy could manifest first as an entity composed of the gooey black substance which would make up its tendrils. It is mindless and moves around waiting for living creatures to touch it so it can absorb its flesh. When it absorbs enough energy, the demon manifests a body.
+
+### The demonic lifestyle
+
+The demons have limited options for their lifestyle, as they are constantly targeted by many assailants including anomaly operatives for the danger they are perceived to bring. The most common choice is to live secluded and to feed off stragglers that pass by. A not uncommon option is to join a local demon clan, which range in their rules and territory. On occasion, a demon can try to blend back into human society and secretly feed to survive. The last option leads to failure in most cases.
+
+Unfortunately, demons have short life spans due to hunting and a lack of proper nutrition. Given more fortunate circumstances, they could live as long as a human.
+
+A demon’s personality is based on the original person’s distorted views. Specifically, the demon becomes what the person envisions would make them powerful.  For example, if a person believes they would be more powerful if they had fewer inhibitions, the demon embodies this belief. The personality of a demon ranges from quiet and kind to murderous and sadistic. The most unstable demons are born from violent people; which is why anomaly operatives make the worst demons.
+
+When threatened, a demon will unravel. Unraveling is when a demon is so stressed and overwhelmed that they go into a violent haze to defend themselves. They are far more animalistic; growling, hunched over on all fours, and some completely unable to form sentences. This state is effective at harming others and is incredibly powerful but sacrifices their defense. A demon in this state might not be able to distinguish between friend or foe, and could hurt loved ones in the frenzy. The demon's whole eye turns black. Another state is halfway between normal and unraveled, where a lesser amount of sanity and defense exchanges for strength. They are more coherent in this state than when unraveled in their entirety. The demon’s sclera turns black, but their pupils and irises remain the same. In addition, they might shape-shift their form to appear more intimidating.
+Body sharing with a demon
+
+For information on headspace, please visit [**Headspace**](/docs/anomaly-project-lore/anomalies-and-magic/magic-and-energy/headspace).
+
+The demon and the original person (in most cases) fight for their ability to take control of the body. The more the demon takes control and feeds, the more their growth on the original person's soul grows. With enough time, the demon can take complete control if they so please.
+
+### Exorcism
+
+A demon cannot be fully removed from a body once it is there. It is fused to the soul. Yet, an exorcism has the benefit of removing a demon's power and forcing it to become dormant. The demon's part of the soul goes to sleep, and the demon is locked out of control of any part of the body.
+
+The dormant demon can reawaken if the person tampers enough with their psyche and pulls the demon out from their slumber.

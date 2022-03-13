@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: Anomaly Rising Characters
-description: The characters of The Anomaly Project.
+title: 'Anomaly Rising: Characters'
+description: The characters of Anomaly Rising.
 slug: /anomaly-rising-characters
 ---
 
-# Anomaly Rising Characters
+# Anomaly Rising: Characters
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';

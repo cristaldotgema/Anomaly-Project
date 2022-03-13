@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   staticDirectories: ['static'], //where static files like images will be
-  title: 'Anomaly Project',
+  title: 'The Anomaly Project',
   tagline: 'A multimedia project concerning interpersonal relations, scorned demon hunters, and the macro-nation controlling them.',
   url: 'https://anomalyproject.xyz/',
   baseUrl: '/',
@@ -52,15 +52,15 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Welcome to the new revamped site for "Anomaly Project"!',
+          'Welcome to the new revamped site for "The Anomaly Project"!',
         backgroundColor: 'var(--ifm-color-primary-darker)',
         textColor: '#fff',
         isCloseable: true,
       },
       navbar: {
-        title: 'Anomaly Project',
+        title: 'The Anomaly Project',
         logo: {
-          alt: 'Anomaly Project Logo',
+          alt: 'The Anomaly Project Logo',
           src: 'img/anomaly-project.svg',
         },
         items: [
@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],*/
-        copyright: `Copyleft © ${new Date().getFullYear()} Anomaly Project, Inc. by <a href="https://aremo-te.art">Aremo</a>, and advised by <a href="https://junjie.carrd.co/">Jun</a>.<br/> Website built with Docusaurus, created and managed by <a href="https://cristaldotgema.com">Magz</a>.`,
+        copyright: `Copyleft © ${new Date().getFullYear()} The Anomaly Project, Inc. by <a href="https://aremo-te.art">Aremo</a>, and advised by <a href="https://junjie.carrd.co/">Jun</a>.<br/> Website built with Docusaurus, created and managed by <a href="https://cristaldotgema.com">Magz</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
