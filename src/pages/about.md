@@ -18,10 +18,10 @@ The creator, Aremo_te, first envisioned the project in 6th grade while left alon
 
 ### Project Sections
 
-The Anomaly Project: A.K.A. "AnoPro"; used to refer to the whole of the project
-Anomaly Rising: "Canonical"; webcomic content
-Anomaly Synodic: Post- Anomaly Rising content
-Anomaly Retrograde: TTRPG content
+* The Anomaly Project: A.K.A. "AnoPro"; used to refer to the whole of the project
+* Anomaly Rising: "Canonical"; webcomic content
+* Anomaly Synodic: Post- Anomaly Rising content
+* Anomaly Retrograde: TTRPG content
 
 ### Donations
 [Buy Me A Coffee](https://www.buymeacoffee.com/aremo.te) & 
