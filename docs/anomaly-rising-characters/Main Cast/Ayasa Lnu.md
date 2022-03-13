@@ -62,7 +62,7 @@ He hyperfocuses on individual contingencies, and overanalyzes details that end u
 |**Defense**: ☆☆☆|
 |**Energy Power**: ☆☆☆☆|
 |**Disabilities**: 	Psychosis,<br/> autism, low vision, DID|
-|**Partners**:<br/> 	Mikiya (Prev), Sokemui|
+|**Partners**:<br/> 	Mikiya (Prev), Kemui|
 |**ChatMap Username**:<br/> 	ArtificialPixels|
 
 
@@ -72,13 +72,13 @@ Despite his dogmatic approach to daily life, Ayasa approaches magic with a playf
 
 Ayasa is not so snooty as to hate a fun time, especially if it means learning something new.
 
-Ayasa loathes his intellectual inadequacies, and as a result, studies compulsively—wracked with imposter syndrome, hiding behind his constructed quagmire of a personality and cold, callous language. He is compassionate and empathetic, though these qualities lie beyond his obvious front. Ayasa is far from the worst member of Group #113, as he shows kindness for others and has a sense of humor—sarcastic or black when alone, but in the company of Sokemui, Ayasa mirrors her deadpan absurdist comedy.
+Ayasa loathes his intellectual inadequacies, and as a result, studies compulsively—wracked with imposter syndrome, hiding behind his constructed quagmire of a personality and cold, callous language. He is compassionate and empathetic, though these qualities lie beyond his obvious front. Ayasa is far from the worst member of Group #113, as he shows kindness for others and has a sense of humor—sarcastic or black when alone, but in the company of Kemui, Ayasa mirrors her deadpan absurdist comedy.
 
 Frequent visual hallucinations of dark figures and shadows distress his eyesight, and his vision blanks from stress. Ayasa treats these like simple nuisances, finding them more annoying than anything else.
 
 ### Daily Life
 
-Ayasa and Sokemui thrive together, moving as one unit. Whatever one is doing, the other trails close by. Ayasa indulges whatever Sokemui takes interest in this week, encouraging her to do her best. Ayasa crams magical practice into his spare time. If not found with Sokemui or by his cauldron, Ayasa's nose is stuck in a book.
+Ayasa and Kemui thrive together, moving as one unit. Whatever one is doing, the other trails close by. Ayasa indulges whatever Kemui takes interest in this week, encouraging her to do her best. Ayasa crams magical practice into his spare time. If not found with Kemui or by his cauldron, Ayasa's nose is stuck in a book.
 
 Ayasa regards four members of the group with disdain, namely Noah, Aure, Celestius, and Mikiya.
 

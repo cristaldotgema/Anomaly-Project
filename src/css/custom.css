@@ -75,6 +75,9 @@ html{
 
 
 @media screen and (min-width: 2000px){
+  :root{
+    --doc-sidebar-width: 14vw !important;
+  }
   html{
     font-size: 1.5rem;
   }
@@ -95,6 +98,9 @@ html{
   }*/
 }
 @media screen and (min-width: 3000px){
+  :root{
+    --doc-sidebar-width: 16vw !important;
+  }
   html{
     font-size: 2.1rem;
   }

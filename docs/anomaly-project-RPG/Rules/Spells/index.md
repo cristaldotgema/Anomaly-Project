@@ -5,3 +5,9 @@ slug: /anomaly-project-RPG/rules/spells
 ---
 
 # Spells
+
+:::note
+
+Currently a Work-in-progress, the mechanics and details of the Anomaly Project RPG are not finished.
+
+:::

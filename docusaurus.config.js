@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   staticDirectories: ['static'], //where static files like images will be
   title: 'Anomaly Project',
-  tagline: 'A multimedia project concerning interpersonal relations, scorned demon hunters, and the macro-nation controlling them.  ',
+  tagline: 'A multimedia project concerning interpersonal relations, scorned demon hunters, and the macro-nation controlling them.',
   url: 'https://anomalyproject.xyz/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -44,10 +44,18 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: '/img/crescent.png',
+      image: '/img/anoprocity-meta-banner.png',
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
+      },
+      announcementBar: {
+        id: 'support_us',
+        content:
+          'Welcome to the new revamped site for "Anomaly Project"!',
+        backgroundColor: 'var(--ifm-color-primary-darker)',
+        textColor: '#fff',
+        isCloseable: true,
       },
       navbar: {
         title: 'Anomaly Project',

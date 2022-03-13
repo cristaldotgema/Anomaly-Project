@@ -12,7 +12,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'An "Open Source" Story',
+    title: 'A "Share-Alike" Story',
     Svg: require('@site/static/img/soul.svg').default,
     description: (
       <>

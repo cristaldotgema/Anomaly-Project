@@ -1,0 +1,88 @@
+---
+title: Kemui Wuale
+description: Anomaly Project character, Kemui.
+slug: /anomaly-rising-characters/main-cast/kemui-wuale
+---
+
+# Kemui Wuale
+
+:::tip
+Kemui uses multiple pronouns. This profile will default to she/her for clarity.
+:::
+
+<div class="leftCharacterProfile"> </div>
+
+| ![Kemui Wuale Image](/img/characters/kemui.jpg) |
+| --- |
+|**Name**: Kemui Wuale|
+|**Age**: 25 (as of 05/03/2273)|
+|**Birthdate**: 11/10/2247 (12:00 PM)|
+|**Gender**: don't be nosy|
+|**Pronouns**: Any|
+|**Honorific**: Any|
+|**Sexuality**: Gay|
+|**Height**: 6'2|
+|**Race**: Super Ultra Hyper Mixed|
+|**Spoken Languages**: Wakanele,<br/> Communia +2 Others (to be determined)|
+|**Occupation**:<br/> Anomaly Operative - Infantry|
+|**Employed by**:<br/> Paradisan Anomaly Security|
+|**Group Code**: 113 SW-JD|
+
+
+### Summary
+
+Kemui Wuale is an anomalous human working in Judicia as an anomaly operative in the infantry rank. In contrast to her violent past, Kemui treats her peers with respect and resolves conflicts with peace. While intimidating in her general demeanor, she is thoughtful, humorous, and grateful for her friends.
+
+### General Appearance
+
+Kemui towers above her group mates with hardened muscles and proud posture. She enjoys wearing a mix of minimalist, grunge, casual, and street wear, though she usually dresses masculine no matter the style. Her short hair changes colors from week to week, ranging from muted brown to vibrant blue. Silvered scars tatter her lightly tanned skin. An orange ring surrounds her pupil, and her iris turns orange when she uses energy.
+
+### Likes/Hobbies/Talents
+
+Kemui enjoys photography, journaling, and information collecting through vigorous research. She dances, but rarely does someone prompt her to show off her talent.
+
+Kemui's cardinal talent is neutralizing and/or murdering any target in any situation—a skill Kemui holds in contempt and low regard.
+
+### Bio
+
+A stoic, imposing presence, Kemui silences rooms with her aura. Her limited range of expressions and a deadpan affect make her difficult to read. Deceptive first impressions aside, Kemui offers much beyond intimidation and masculinity.
+
+The master of comedic timing and punchlines, Kemui's jokes border on lethal. Kemui's sharp memory clings to any information she absorbs, recalling facts and events from eons ago with ease. She's also the best listener in the group, and lends an ear to anyone needing to vent. Kemui gives pointed and accurate feedback—blunt but not cruel. As the residential Mom Friend of the group, Kemui sees maintaining peace and harmony as a personal responsibility, intervening in physical altercations without a second though.
+
+<div class="rightCharacterProfile"> </div>
+
+|Other Information|
+| --- |
+|**Spiritual Alignment**:<br/> 	Anomalous Human|
+|**Soul Color**: 	Orange|
+|**Aura Ability**:<br/> 	Intimidates others|
+|**Special Ability**: 	Creation<br/> and control of fire|
+|**Battle Focus**: 	Balanced<br/> energy and weapon usage|
+|**Primary Weapon**:<br/> 	Chainsaw Sword|
+|**Secondary Weapon(s)**:<br/> 	Standard AO pistol|
+|**Offense**: ☆☆☆☆☆|
+|**Defense**: ☆☆☆☆+1/2|
+|**Energy Power**: ☆☆☆|
+|**Disabilities**: 	Autism, ????|
+|**Partners**: 	Ayasa LNU|
+|**ChatMap Username**:<br/> 	bye (prev. cupnoodle)|
+
+Kemui speaks in succinct, pithy sentences. When asked to expand on her thoughts, she ofttimes obliges. Kemui thinks before she acts to procure her desired outcome. Nothing about Kemui is spontaneous. One of her biggest values is healthy relationships. Kemui cares about her fiancé and friends more than she does for herself.
+
+Forgiving and mild, Kemui sees beyond flaws and past mistakes, accepting a person as they are—but no one draws harder lines in the sand when they're fed up than her. If Kemui wants you dead, that would have already happened.
+
+Kemui approaches matters with a flat expression—excluding embarrassing subjects. Compliments and affection curry unfamiliar emotions she's not prepared to handle. Kemui devolves into a stuttering, flushed mess when shown a smidgen of adoration. Though restrained in expression, Kemui smiles the most to Ayasa (especially when intoxicated.)
+
+### Daily Life
+
+Kemui enjoys her downtime. Her job is not her identity, nor a source of joy.
+
+Thriving on new experiences, Kemui obliges virtually every invitation to spend time with people. Like an information sponge, Kemui absorbs expertise and hobbies from her friends. Kemui learns new skills from peers, then develops them further in her personal time. Learning and experimenting replaced her need to train and battle to exhaustion—her violent nature laid to rest while her creativity flourishes.
+
+When at work, Kemui relaxes, daydreaming on patrol. Kemui spends downtime—such as walking between assignments—compartmentalizing her copious thoughts and recollections. Uninterested in grievous harm or murder of her opponents, Kemui pacifies advisories, to the mounting irritation of her peers.
+
+### Fighting Technique
+
+Kemui is one of the best operatives in the game, finessing her way through battle with unmatched talent. Despite her deadly skill set, Kemui is a pacifist who uses her accomplished techniques in self-defense.
+
+What Kemui lacks in energy capacity, she makes up for this in pure skill. At one time, her adaptability to any environment and callous disregard for life made her unstoppable—pitilessly eradicating enemies in gory, ostentatious brutality. Her previous status as an up-and-coming captain trainee brings her shame, and she refuses to glorify her past actions.

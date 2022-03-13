@@ -82,7 +82,7 @@ In the past, Jacob was in the infantry. She hated her role, but tried her best. 
 
 Jacob builds computers and makes useless apps in her spare time (EX: the annoying volume sliders competition on Reddit.) She sprinkles kaomoji into her programming notes. Jacob enjoys discovering flaws and exploits, and anonymously alerts websites to glitches they should patch.
 
-Jacob's habit of falling asleep and forgetfulness is eased by her friends. Typically, Mikiya, Mikko, Len, Sokemui, and Heavenly are the ones carrying Jacob to bed or reminding her to eat.
+Jacob's habit of falling asleep and forgetfulness is eased by her friends. Typically, Mikiya, Mikko, Len, Kemui, and Heavenly are the ones carrying Jacob to bed or reminding her to eat.
 
 ### Fighting Technique
 
