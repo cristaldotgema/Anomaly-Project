@@ -1,10 +1,10 @@
 ---
-title: Marabelle-Luna Marsela
+title: Marabelle-Luna Marsala
 description: The unscrupulous socialite and incendiary hot-shot, ML.
-slug: /anomaly-rising-characters/main-cast/marabelle-luna-marsela
+slug: /anomaly-rising-characters/main-cast/marabelle-luna-marsala
 ---
 
-# Marabelle-Luna Marsela
+# Marabelle-Luna Marsala
 
 :::note
 Character portraits are being revamped. Please check back soon for updates!

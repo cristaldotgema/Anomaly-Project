@@ -1,10 +1,10 @@
 ---
-title: Randy Noah
+title: Randy Noah Paul
 description: God, who let this guy in. Randy.
-slug: /anomaly-rising-characters/main-cast/randy-noah
+slug: /anomaly-rising-characters/main-cast/randy-noah-paul
 ---
 
-# Randy Noah
+# Randy Noah Paul
 
 :::note
 Character portraits are being revamped. Please check back soon for updates!
@@ -12,7 +12,7 @@ Character portraits are being revamped. Please check back soon for updates!
 
 <div class="leftCharacterProfile"> </div>
 
-| ![Randy Noah Image](/img/characters/randy.jpg) |
+| ![Randy Noah Paul Image](/img/characters/randy.jpg) |
 | --- |
 |**Name**: Randall Noah Paul|
 |**Age**: 27 (as of 05/03/2273)|
