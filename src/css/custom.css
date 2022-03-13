@@ -194,3 +194,7 @@ footer a:hover{
   color: var(--ifm-color-primary-lighter);
   transition-duration: 400ms;
 }
+
+#support_us{
+  padding: 0.8rem;
+}
