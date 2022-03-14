@@ -1,6 +1,6 @@
 ---
 title: Hauma Ohuo
-description: The open-hearted, forthright, and secretly timorous director, Hauma.
+description: The open-hearted, forthright, and timorous director, Hauma.
 slug: /anomaly-rising-characters/main-cast/hauma-ohuo
 ---
 
