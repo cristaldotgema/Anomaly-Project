@@ -117,7 +117,8 @@ html{
   }
 
   #support_us{
-    padding: 2.5rem;
+    padding-bottom: 2.5rem !important;
+    margin-bottom: 0.5rem;
   }
 }
 

@@ -30,7 +30,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The Anomaly Project, A modern supernatural horror-drama and multi-media abomination. An alternate universe about the crumbling boundary between monsters and modern civilization.">
+      description="The Anomaly Project, A modern supernatural horror-drama and multimedia abomination. An alternate universe about the crumbling boundary between monsters and modern civilization.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

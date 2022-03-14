@@ -14,7 +14,7 @@ In a world of virulent anomalies and the contentious affairs of state, annihilat
 
 *The Anomaly Project* is a multimedia amalgamation of storycraft and DIY worldbuilding, more than a decade in the works. 
 
-The creator, Aremo_te, first envisioned the project in 6th grade while left alone on a swing set with little to occupy their thoughts. Now, twelve years later, *The Anomaly Project* is an extensive universe brimming with extensive lore and multi-faceted characters. Arriving soon, and at no cost to the viewer, *The Anomaly Project* will feature a webcomic, a novel, an original score, and even an RPG. If you are interested in keeping the project available for free, please consider supporting financially with a donation.
+The creator, Aremo_te, first envisioned the project in 6th grade while left alone on a swing set with little to occupy their thoughts. Now, twelve years later, *The Anomaly Project* is an extensive universe brimming with extensive lore and multi-faceted characters. Arriving soon, and at no cost to the viewer, *The Anomaly Project* will feature a webcomic, a novel, an original score, interactive fiction content, and even an RPG. If you are interested in keeping the project available for free, please consider supporting financially with a donation.
 
 ### Project Sections
 

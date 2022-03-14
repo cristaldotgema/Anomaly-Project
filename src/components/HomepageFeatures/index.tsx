@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/outlinedEyes.svg').default,
     description: (
       <>
-        Experience The Anomaly Project through the webcomic, novel, music, and TTRPG.
+        Experience The Anomaly Project through the webcomic, novel, music, interactive fiction, and TTRPG.
       </>
     ),
   },
