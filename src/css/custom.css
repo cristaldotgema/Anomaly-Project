@@ -72,7 +72,9 @@ html{
   background-image: url(/img/lightmodeCity.png) no-repeat center fixed;
 }
 
-
+#support_us{
+  padding: 1rem;
+}
 
 @media screen and (min-width: 2000px){
   :root{
@@ -112,6 +114,10 @@ html{
   }*/
   .heroBanner{
     padding: 4.2rem 0;
+  }
+
+  #support_us{
+    padding: 2.5rem;
   }
 }
 
@@ -193,8 +199,4 @@ footer a{
 footer a:hover{
   color: var(--ifm-color-primary-lighter);
   transition-duration: 400ms;
-}
-
-#support_us{
-  padding: 0.8rem;
 }
