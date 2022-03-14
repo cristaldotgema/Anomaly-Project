@@ -23,7 +23,7 @@ The creator, Aremo_te, first envisioned the project in 6th grade while left alon
 * Anomaly Synodic: Post- Anomaly Rising content
 * Anomaly Retrograde: TTRPG content
 
-## Content Warnings
+### Content Warnings
 
 **General Age Rating**: 17 and up.
 
