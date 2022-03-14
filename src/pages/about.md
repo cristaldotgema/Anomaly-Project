@@ -23,6 +23,16 @@ The creator, Aremo_te, first envisioned the project in 6th grade while left alon
 * Anomaly Synodic: Post- Anomaly Rising content
 * Anomaly Retrograde: TTRPG content
 
+## Content Warnings
+
+**General Age Rating**: 17 and up.
+
+The story and content can get very heavy.
+
+It depicts and deals with:
+
+Body horror, imperialism, genocide, colonialism, death (like half the cast dies), murder, racism, classism, ableism, sexism, transphobia, child abuse, romantic/domestic abuse, religious abuse, graphic violence and gore, cannibalism, self-harm, suicide, unreality.
+
 ### Donations
 [Buy Me A Coffee](https://www.buymeacoffee.com/aremo.te) & 
 [Patreon](https://www.patreon.com/aremo_te)

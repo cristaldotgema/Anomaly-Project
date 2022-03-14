@@ -4,8 +4,15 @@ sidebar_position: 1
 
 # Welcome
 
+:::info
+**General Age Rating**: 17 and up.
+
+The story and content gets VERY heavy, check the [About](/about) page for content warnings and more information about it. 
+:::
+
 Discover the world of The Anomaly Project!
-There's a lot to "sink your teeth" in.
+There's a lot to "sink your teeth" in. 
+
 
 ## Getting Started
 
