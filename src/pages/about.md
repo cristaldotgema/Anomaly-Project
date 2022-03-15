@@ -38,4 +38,4 @@ Body horror, imperialism, genocide, colonialism, death (like half the cast dies)
 [Patreon](https://www.patreon.com/aremo_te)
 
 ### Credits
-[Aremo-te](https://bio.link/aremo_te) as main creator, [Jun](https://junjie.carrd.co/) as creative advisor, Yū as creative editor/advisor, Original "The Anomaly Project" Discord group for feedback/ideas (including Nico, Arya, [Void](https://twitter.com/voidicium), Jaykay, [Valentino](https://qhostorb.tumblr.com), Becky, Enigma, Diddle, Monkey, Chucky), and [Magz](https://cristaldotgema.com) for website creation and creative feedback help.
+[Aremo-te](https://bio.link/aremo_te) as main creator, [Jun](https://junjie.carrd.co/) as creative advisor, Yū as creative editor/advisor, Original "The Anomaly Project" Discord group for feedback/ideas (including Nico, Arya, [Void](https://twitter.com/voidicium), [Jaykay](https://twitter.com/Tjezuka), [Valentino](https://qhostorb.tumblr.com), Becky, Enigma, Diddle, Monkey, Chucky), and [Magz](https://cristaldotgema.com) for website creation and creative feedback help.
