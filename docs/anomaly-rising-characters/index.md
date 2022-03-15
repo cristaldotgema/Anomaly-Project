@@ -14,6 +14,8 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 <DocCardList items={useCurrentSidebarCategory().items}/>
 ```
 
+Information is subject to change, including names.
+
 > ## Characters
 > Main cast (and later, minor cast) characters that are part of the main story
 
