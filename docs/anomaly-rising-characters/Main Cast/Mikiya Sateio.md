@@ -59,14 +59,14 @@ Paradisian religious imagery—iconography of angel and church in particular—e
 | **Primary Weapon**: <br/>	Clock hands swords |
 | **Secondary Weapon(s)**: 	 <br/> Throwing daggers, standard AO <br/>pistol, bow and arrow |
 | **Disabilities**: 	PD-NOS, autism, ??? |
-| **Partners**: 	Ayasa (prev), Hauma |
+| **Partners**: 	Ayasa (prev), Hauna |
 | **ChatMap Username**:	forestkeys |
 
 ### Bio
 
 Mikiya is collected and endearing. Balancing his professional and casual persona with a witty and charismatic affect, Mikiya fosters a healthy work environment. Mikiya's mastery of language and tone persuades others to heed his words with forethought. People flock to his magnetic confidence and his approachable, inviting demeanor. In contrast to the hotheaded captain stereotype, Mikiya openly compliments his fellow operatives and treats them as equals. He insists on rules that keep his group safe and sane, but relaxes rules that dictate self-expression. Trivial mischief slides on his watch, which boosts group morale. Mikiya is gracious with 'please's and 'thank you's and displays his gratitude in both his words and actions.
 
-Saying others find Mikiya attractive is a grave understatement. Mikiya is beloved for his captivating looks as much as (if not more than) his personality. Handsome and alluring with a blemish-free face, Mikiya is a feast for the eyes. Mikiya is affectionate without restraint and plainly expresses his adoration for his peers. This extends to his romantic life—his open relationship with Hauma allows him companions that toe the line between friendship, love, and lust. His partners describe him as sensual and thoughtful.
+Saying others find Mikiya attractive is a grave understatement. Mikiya is beloved for his captivating looks as much as (if not more than) his personality. Handsome and alluring with a blemish-free face, Mikiya is a feast for the eyes. Mikiya is affectionate without restraint and plainly expresses his adoration for his peers. This extends to his romantic life—his open relationship with Hauna allows him companions that toe the line between friendship, love, and lust. His partners describe him as sensual and thoughtful.
 
 Beyond the rare narrowed eyelids, Mikiya's facial expressions show only joy and neutrality. Mikiya doesn't display anger or sadness, and keeps his emotions reigned on a tight leash. Mikiya speaks in an even, calming voice, and never raises his voice. It will be a cold day in Hell before you catch Mikiya losing his temper. Even so much as a frown shall never grace his lips.
 Mikiya is a compulsive over-worker, and requires observant friends to distract him from his responsibilities.
@@ -89,13 +89,13 @@ Mikiya is unaware he shares a body with a demon. Morgan indirectly influences Mi
 
 Morgan differs from Mikiya in physical appearance inside their shared headspace. He has stark, prodigiously white skin, hair, and pupils. It’s as if he’s painted over and drained of color. Above his ears and behind his temples rest dark horns, curving back horizontally and curling upwards on the ends, resembling a headpiece of a crown. His sclera is abyssal black, along with his curling pointed tongue. Morgan’s soul color is a lighter shade of green than Mikiya’s. Though tame in appearance when compared to other demons, he transforms when starved or gravely threatened. His jaw tears open to reveal rows of razor-sharp teeth, the tips of his fingers hone to deadly talons. Morgan does not change the body’s physical appearance to match his own, presenting as Mikiya and disguising his true form.
 
-Mikiya is traumatized and paranoid. He disguises his fears and worries, viewing them as personal weaknesses. Bearing  guilt for everything from abandoning Mikko to captain’s imposter syndrome, Mikiya holds himself accountable for all his misdeeds—perceived and real alike. He fears replacement, failure, authority, and his own (Morgan’s) violent streak. Repetition comforts Mikiya, repeating reassuring phrases in his mind to get him through stress, and stimming by drumming his fingers when no one is looking. Even with Hauma’s affection and the adoration of his group, Mikiya is starved of love. When stressed in solitude, Mikiya scratches at his neck until he bleeds. It is not intentional self-harm, but he never tries to break the habit. Despite his occupation and suicidal ideation, Mikiya loathes pain and cowers from killing himself.
+Mikiya is traumatized and paranoid. He disguises his fears and worries, viewing them as personal weaknesses. Bearing  guilt for everything from abandoning Mikko to captain’s imposter syndrome, Mikiya holds himself accountable for all his misdeeds—perceived and real alike. He fears replacement, failure, authority, and his own (Morgan’s) violent streak. Repetition comforts Mikiya, repeating reassuring phrases in his mind to get him through stress, and stimming by drumming his fingers when no one is looking. Even with Hauna’s affection and the adoration of his group, Mikiya is starved of love. When stressed in solitude, Mikiya scratches at his neck until he bleeds. It is not intentional self-harm, but he never tries to break the habit. Despite his occupation and suicidal ideation, Mikiya loathes pain and cowers from killing himself.
 
 Mikiya lives in the past. He misses his childhood, glossing over the pain, romanticizing what never was and can never be. He wants a redo in life; to be a kid once more, since his surroundings forced him to mature hastily. The past challenges Mikiya with rose-tinted nostalgia. Letting go of old relationships is impossible for Mikiya, whose prone to heartache. In the past and present, he tries to win the affections of people who mean him ill.
 
 While Mikiya makes fruitless attempts to combat the racism he faces, Morgan drowns in internalized racism. He loathes that he was born Hoabi, and longs for the “prestige” of being a full-blooded Paradisian. Morgan is far easier to offend, especially if it challenges his status as a captain. Though he will not express this anger, Morgan forgives none for perceived slights. He loathes authority but is polite and respectful to those in power over him. Morgan is prone to bouts of mania due to his god complex, manifesting in intense battles or stand-offs with his group mates. He cares less about being morally “good” and much more about securing Mikiya's future. Consequently, the only way to keep Mikiya and himself safe are to be on the top—in charge of everyone else. Outsiders are stepping stones on their path to power. He was born to protect Mikiya and will risk anything to carry out his goals.
 
-Morgan is far more confident and self-assured than Mikiya on his own. He is well-spoken like Mikiya, but his honeyed words are deceptive. He manipulates and blackmails his peers to get what he desires. Morgan’s detachment from others allows his brutality. Morgan’s smugness and condescension outweighs Mikiya’s. Assuming the worst of everyone, he plans for friends to turn into foes, inevitably betraying Mikiya and himself. When angered, Morgan aims for any emotional weak spots in an individual, shamelessly stabbing at their insecurities until they submit. Like Mikiya, Hauma has Morgan spellbound. Despite his genuine devotion, Morgan is certain he will slay Hauma on his road to protecting Mikiya.
+Morgan is far more confident and self-assured than Mikiya on his own. He is well-spoken like Mikiya, but his honeyed words are deceptive. He manipulates and blackmails his peers to get what he desires. Morgan’s detachment from others allows his brutality. Morgan’s smugness and condescension outweighs Mikiya’s. Assuming the worst of everyone, he plans for friends to turn into foes, inevitably betraying Mikiya and himself. When angered, Morgan aims for any emotional weak spots in an individual, shamelessly stabbing at their insecurities until they submit. Like Mikiya, Hauna has Morgan spellbound. Despite his genuine devotion, Morgan is certain he will slay Hauna on his road to protecting Mikiya.
 
 Morgan can justify anything if it means Mikiya thrives. In reality, Morgan is mercurial and reactive—though he views Mikiya as an emotionally immature child in dire need of his deliverance.
 
@@ -120,7 +120,7 @@ Morgan's soul color is a lime green, and Mikiya's color is forest green.
 
 ### Daily Life
 
-Mikiya relishes his group life, and functions at his best when he's around people he enjoys—which thankfully is the situation at Group #113. Mikiya is usually found doing paperwork or cleaning, as he only allows himself to have free time if Hauma forces him to. Group functions and meals are the best time to interact with him in a friendly environment.
+Mikiya relishes his group life, and functions at his best when he's around people he enjoys—which thankfully is the situation at Group #113. Mikiya is usually found doing paperwork or cleaning, as he only allows himself to have free time if Hauna forces him to. Group functions and meals are the best time to interact with him in a friendly environment.
 
 Mikiya frequently posts selfies, food pictures, and scenery to his sizable following on ChatMap.
 
@@ -128,7 +128,7 @@ Mikiya frequently posts selfies, food pictures, and scenery to his sizable follo
 <details>
   <summary>Spoilers (Toggle)</summary>
   <div>
-Mikiya enjoys pleasant escapism, like nature walks and piano playing. Morgan doesn't have hobbies or ways to relax other than to spend time with Hauma. Mikiya and Morgan hyperfocus on work so hard that it sometimes conjures a spell.
+Mikiya enjoys pleasant escapism, like nature walks and piano playing. Morgan doesn't have hobbies or ways to relax other than to spend time with Hauna. Mikiya and Morgan hyperfocus on work so hard that it sometimes conjures a spell.
   </div>
 </details>
 
