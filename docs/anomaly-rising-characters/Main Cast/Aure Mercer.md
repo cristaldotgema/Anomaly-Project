@@ -7,7 +7,7 @@ slug: /anomaly-rising-characters/main-cast/aure-mercer
 # Aure Mercer
 
 :::tip
-While Aure accepts they/them pronouns, x/x/x's are prefered. For accessibility, I have written this in they/them pronouns.
+While Aure accepts they/them pronouns, x/x/x's are preferred. For accessibility, I have written this in they/them pronouns.
 :::
 
 :::note
