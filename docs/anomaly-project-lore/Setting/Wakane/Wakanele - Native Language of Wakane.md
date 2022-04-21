@@ -8,6 +8,6 @@ slug: /anomaly-project-lore/setting/wakane/wakanele
 
 :::note
 
-This article will remain unfinished until the grammer and vocabulary has been finalized. Then, it will include free resources on Wakanele, including how to write, read, and use the language.
+This article will remain unfinished until the grammar and vocabulary has been finalized. Then, it will include free resources on Wakanele, including how to write, read, and use the language.
 
 :::
