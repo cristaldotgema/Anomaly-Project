@@ -1,6 +1,5 @@
 ---
 title: Marshall Lutora
-
 description: Mr. Guy, the lovable but messy trainer.
 slug: /anomaly-rising-characters/main-cast/marshall-lutora
 ---
