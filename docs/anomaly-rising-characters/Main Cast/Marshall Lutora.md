@@ -79,7 +79,7 @@ Although Marshall is talkative, he is out of touch with his emotions, good or ba
 
 When forced to work with someone he despises, Marshall wears his annoyance on his sleeve, undisguised, and has a hard time controlling his temper. If forced, Marshall will work with an adversary, but with as much spite as he can muster, wrinkling his nose and flipping them off behind their back.
 
-Far from the prestige of some of his fears, but not without accomplishments of his own, Marshall, experiences relentless imposter syndrome. Envious and harboring an inferiority complex, Marshall inadvertently holds his trainee back from her full potential.
+Far from the prestige of some of his peers, but not without accomplishments of his own, Marshall, experiences relentless imposter syndrome. Envious and harboring an inferiority complex, Marshall inadvertently holds his trainee back from her full potential.
 
 Quick to isolate and self-neglect, Marshall drowns in his despair and guilty conscious, sequestering himself in his quarters and loathing everything he's become.
 
