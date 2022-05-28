@@ -30,7 +30,7 @@ Character portraits are being revamped. Please check back soon for updates!
 
 ### Summary
 
-Marshall Lutora is a Wakanean anomalous human working in Judicia as an anomaly operative trainer. An odd man with an aspiration for glory beyond his capacity. Marshall appears mellow and goofy on the outside, but his endless anxiety and lack of forethought leads to difficulty with both familial and romantic relationships. He doesn't mind being the class clown, even if that mean's he's the punchline, he'll take what he can get.
+Marshall Lutora is a Wakanean anomalous human working in Judicia as an anomaly operative trainer. An odd man with an aspiration for glory beyond his capacity. Marshall appears mellow and goofy on the outside, but his endless anxiety and lack of forethought leads to difficulty with both familial and romantic relationships. He doesn't mind being the class clown, even if that means he's the punchline, he'll take what he can get.
 
 ### General Appearance
 

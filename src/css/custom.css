@@ -181,6 +181,16 @@ html{
   clear: both;
 }
 
+@media screen and (max-width: 800px) {
+
+.leftCharacterProfile + table, .rightCharacterProfile + table{
+  display:block;
+  float: none;
+  margin: 10px;
+}
+
+}
+
 spoiler{
   background-color: #000000;
   color: #000000;
