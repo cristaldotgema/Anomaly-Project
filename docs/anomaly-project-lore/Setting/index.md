@@ -7,6 +7,9 @@ slug: /anomaly-project-lore/setting
 
 # Setting
 
+![World Map](/img/info/map1.jpg)
+![Paradiso Territory Map](/img/info/map2.jpg)
+
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
